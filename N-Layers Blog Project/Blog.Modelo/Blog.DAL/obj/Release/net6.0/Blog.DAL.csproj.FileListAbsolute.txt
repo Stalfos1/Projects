@@ -1,0 +1,17 @@
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\bin\Release\net6.0\Blog.DAL.deps.json
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\bin\Release\net6.0\Blog.DAL.runtimeconfig.json
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\bin\Release\net6.0\Blog.DAL.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\bin\Release\net6.0\Blog.DAL.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\bin\Release\net6.0\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\bin\Release\net6.0\Blog.Modelo.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.AssemblyInfo.cs
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.csproj.CopyComplete
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\refint\Blog.DAL.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\Blog.DAL.genruntimeconfig.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.DAL\obj\Release\net6.0\ref\Blog.DAL.dll

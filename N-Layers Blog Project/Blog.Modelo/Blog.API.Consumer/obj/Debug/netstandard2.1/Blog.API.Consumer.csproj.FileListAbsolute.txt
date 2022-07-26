@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\bin\Debug\netstandard2.1\Blog.API.Consumer.deps.json
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\bin\Debug\netstandard2.1\Blog.API.Consumer.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\bin\Debug\netstandard2.1\Blog.API.Consumer.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.AssemblyInfo.cs
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.API.Consumer\obj\Debug\netstandard2.1\Blog.API.Consumer.pdb

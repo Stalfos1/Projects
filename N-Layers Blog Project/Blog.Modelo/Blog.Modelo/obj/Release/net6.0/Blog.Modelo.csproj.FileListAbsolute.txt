@@ -1,0 +1,12 @@
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Release\net6.0\Blog.Modelo.deps.json
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Release\net6.0\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Release\net6.0\Blog.Modelo.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.AssemblyInfo.cs
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\refint\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\Blog.Modelo.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Release\net6.0\ref\Blog.Modelo.dll

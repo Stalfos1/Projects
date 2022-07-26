@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Debug\net6.0\Blog.Modelo.deps.json
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Debug\net6.0\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Debug\net6.0\Blog.Modelo.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.AssemblyInfo.cs
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\refint\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\ref\Blog.Modelo.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Debug\net6.0\Blog.API.Consumer.dll
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\bin\Debug\net6.0\Blog.API.Consumer.pdb
+C:\Users\David\Documents\Blog.Modelo\Blog.Modelo\obj\Debug\net6.0\Blog.Modelo.csproj.CopyComplete
